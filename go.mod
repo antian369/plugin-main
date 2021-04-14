@@ -1,1 +1,1 @@
-module "plugin-main"
+module "github.com/antian369/plugin-main"
